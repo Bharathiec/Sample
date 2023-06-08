@@ -7,6 +7,9 @@ public class Rever {
 	public void name() {
 System.out.println("Arvin");
 	}
+	private void address() {
+		System.out.println("saidapet");
+}
 	
 		
 	
